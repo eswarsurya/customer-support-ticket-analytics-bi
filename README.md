@@ -26,6 +26,6 @@ The dashboards folder is for Power BI and Tableau files. The reports folder is f
 
 The project produces a dashboard focused on support operations, a data quality finding around missing or incomplete records, and a written explanation of what the data shows.
 
-## How Recruiters Should Review This
+## Project Walkthrough
 
-Start with this README, then review the dashboard file and report. This project shows BI thinking, data quality awareness, and the ability to explain operational insights clearly.
+A good way to explore this project is to start with the README for context, then look through the dashboard files, data notes, and report as they are added.
