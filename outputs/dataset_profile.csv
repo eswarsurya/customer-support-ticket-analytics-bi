@@ -1,0 +1,6 @@
+metric,value
+records,2330
+columns_original,22
+columns_public_sample,19
+raw_dataset_uploaded,No
+removed_public_fields,"Ticket ID, Agent Name, Latitude, Longitude, exact timestamps"
