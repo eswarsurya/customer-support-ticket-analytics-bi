@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="440" viewBox="0 0 760 440" role="img" aria-labelledby="title desc">
+  <title id="title">Customer Support SLA Summary</title>
+  <desc id="desc">Bar chart comparing first response SLA and resolution SLA performance.</desc>
+  <rect width="760" height="440" fill="#f8fafc"/>
+  <text x="40" y="55" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#111827">SLA Performance Summary</text>
+  <text x="40" y="85" font-family="Arial, sans-serif" font-size="14" fill="#4b5563">Public-safe summary from 2,330 support tickets</text>
+  <text x="40" y="150" font-family="Arial, sans-serif" font-size="15" fill="#111827">First response within SLA</text>
+  <rect x="250" y="128" width="390" height="34" fill="#16a34a" rx="4"/>
+  <text x="655" y="151" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#111827">86.65%</text>
+  <text x="40" y="210" font-family="Arial, sans-serif" font-size="15" fill="#111827">First response violated</text>
+  <rect x="250" y="188" width="60" height="34" fill="#dc2626" rx="4"/>
+  <text x="655" y="211" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#111827">13.35%</text>
+  <text x="40" y="280" font-family="Arial, sans-serif" font-size="15" fill="#111827">Resolution within SLA</text>
+  <rect x="250" y="258" width="299" height="34" fill="#0f766e" rx="4"/>
+  <text x="655" y="281" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#111827">66.39%</text>
+  <text x="40" y="340" font-family="Arial, sans-serif" font-size="15" fill="#111827">Resolution violated</text>
+  <rect x="250" y="318" width="151" height="34" fill="#f97316" rx="4"/>
+  <text x="655" y="341" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#111827">33.61%</text>
+  <text x="40" y="395" font-family="Arial, sans-serif" font-size="12" fill="#6b7280">This chart uses aggregate SLA counts only.</text>
+</svg>
