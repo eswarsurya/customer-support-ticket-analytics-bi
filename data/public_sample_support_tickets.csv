@@ -1,0 +1,11 @@
+sample_ticket,Status,Priority,Source,Topic,Agent Group,Created time,Expected SLA to resolve,Expected SLA to first response,First response time,SLA For first response,Resolution time,SLA For Resolution,Close time,Agent interactions,Survey results,Product group,Support Level,Country
+45,Resolved,Low,Email,Product setup,1st line support,2023-01,2023-01,2023-01,2023-01,Within SLA,2023-01,Within SLA,2023-01,3,4,Custom software development,Tier 1,Germany
+112,Closed,Low,Email,Product setup,1st line support,2023-01,2023-01,2023-01,2023-01,SLA Violated,2023-01,Within SLA,2023-01,1,3,Custom software development,Tier 1,Germany
+135,In progress,Medium,Chat,Product setup,1st line support,2023-01,2023-01,2023-01,2023-01,Within SLA,2023-01,SLA Violated,2023-01,60,4,Ready to use Software,Tier 1,Austria
+180,Closed,Medium,Email,Product setup,1st line support,2023-01,2023-01,2023-01,2023-01,Within SLA,2023-01,Within SLA,2023-01,1,5,Training and Consulting Services,Tier 1,Republic of Ireland
+219,In progress,Low,Email,Feature request,1st line support,2023-01,2023-02,2023-01,2023-01,SLA Violated,2023-01,SLA Violated,2023-02,1,4,Custom software development,Tier 1,France
+230,Closed,Medium,Phone,Other,2nd line support,2023-02,2023-02,2023-02,2023-02,Within SLA,2023-02,Within SLA,2023-02,2,5,Training and Consulting Services,Tier 2,Bulgaria
+238,Closed,Low,Email,Feature request,1st line support,2023-02,2023-02,2023-02,2023-02,Within SLA,2023-02,Within SLA,2023-02,8,5,Ready to use Software,Tier 1,Spain
+248,Resolved,High,Email,Feature request,2nd line support,2023-02,2023-02,2023-02,2023-02,Within SLA,2023-02,Within SLA,2023-02,3,4,Other,Tier 2,Austria
+253,Resolved,Medium,Email,Pricing and licensing,2nd line support,2023-02,2023-02,2023-02,2023-02,Within SLA,2023-02,SLA Violated,2023-02,1,4,Custom software development,Tier 2,Germany
+291,Resolved,High,Chat,Product setup,1st line support,2023-02,2023-02,2023-02,2023-02,Within SLA,2023-02,Within SLA,2023-02,6,4,Ready to use Software,Tier 1,Bulgaria
